@@ -1,0 +1,13 @@
+Dataset,Model,Precision,Recall,F1,AUC
+Iris,ID3 (our),1.0,1.0,1.0,
+Iris,CART (our),1.0,1.0,1.0,
+Iris,Logistic Regression,1.0,1.0,1.0,1.0
+Iris,Perceptron,0.875,0.8,0.7731,
+Digits,ID3 (our),0.8408,0.8139,0.8162,
+Digits,CART (our),0.7554,0.6778,0.6781,
+Digits,Logistic Regression,0.9755,0.975,0.9751,0.9991
+Digits,Perceptron,0.954,0.9528,0.9525,
+Wine,ID3 (our),0.9255,0.9167,0.9094,
+Wine,CART (our),0.9204,0.9167,0.9172,
+Wine,Logistic Regression,0.9741,0.9722,0.9722,1.0
+Wine,Perceptron,0.5963,0.75,0.6598,
